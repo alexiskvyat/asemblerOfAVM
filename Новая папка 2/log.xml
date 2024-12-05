@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<AssemblyLog>
+  <Instruction>
+    <Text>106 632</Text>
+    <Binary>6a7802</Binary>
+    <Description>Load constant 632 into the accumulator</Description>
+  </Instruction>
+</AssemblyLog>
